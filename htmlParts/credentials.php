@@ -1,4 +1,4 @@
 <?php
 
 $backendServer = "https://digigrad.herokuapp.com/";
-$frontendServer = "localhost/";
+$frontendServer = "https://managed-ui.herokuapp.com/";

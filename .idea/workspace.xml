@@ -10,10 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a9001e2-59da-4aa4-997b-bf78a9398ec4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/admin/createOpening.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/createStudent.php" afterDir="false" />
-    </list>
+    <list default="true" id="1a9001e2-59da-4aa4-997b-bf78a9398ec4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1627045581149</updated>
-      <workItem from="1627045582945" duration="58083000" />
+      <workItem from="1627045582945" duration="58393000" />
     </task>
     <servers />
   </component>
