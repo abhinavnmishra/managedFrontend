@@ -80,7 +80,7 @@ require_once "htmlParts/credentials.php";
                     </div>
                     <div class="row text-center">
                         <div class="col-xs-12 text-center">
-                            <a href="createStudent.php" style="color: grey; text-decoration: underline;">New User? Click here to create</a>
+                            <a href="createStudent.php" style="color: grey; text-decoration: underline;">New User? Click here to create account</a>
                         </div>
                     </div>
                 </form>

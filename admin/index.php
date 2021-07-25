@@ -67,10 +67,10 @@
                                 </div>
                             </div>
                         <label style="font-size: larger">Status : </label>
-                        <br>
-                        <button type="button" ng-show="!x.status" class="btn m-t-15 waves-effect bg-orange">In Progress</button>
-                        <button type="button" ng-show="x.status" class="btn m-t-15 waves-effect bg-success">Completed</button>
 
+                        <button type="button" style="margin-top: -9px; margin-left: 3px;" ng-show="!x.status" class="btn m-t-15 waves-effect bg-orange">In Progress</button>
+                        <button type="button" style="margin-top: -9px; margin-left: 3px;" ng-show="x.status" class="btn m-t-15 waves-effect bg-success">Completed</button>
+                        <br>
                         <button type="button" class="btn btn-primary m-t-15 waves-effect" ng-click="update(x.id)">UPDATE</button>
 
                         <span ng-show="x.id == option">
