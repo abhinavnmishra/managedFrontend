@@ -19,8 +19,8 @@ It helps the visiting companies to select students having relevant skills and gr
 ## Screenshots:
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/57250845/126905784-af249bf6-136f-4db5-81c5-ba52cb3fcb07.png" width="200" />
-  <img src="https://user-images.githubusercontent.com/57250845/126905809-eace410c-66a6-4b51-b10e-3f1ce7be3e80.png" width="200" /> 
+  <img src="https://user-images.githubusercontent.com/57250845/126905784-af249bf6-136f-4db5-81c5-ba52cb3fcb07.png" height="500" width="500" />
+  <img src="https://user-images.githubusercontent.com/57250845/126905809-eace410c-66a6-4b51-b10e-3f1ce7be3e80.png" height="500" width="500" /> 
   <img src="https://user-images.githubusercontent.com/57250845/126905720-faf4badf-e675-4e78-a354-e62fd3257852.jpeg" width="200" />
   <img src="https://user-images.githubusercontent.com/57250845/126905750-9a16ac6d-8c55-4e2f-9b77-e43203154ca2.jpeg" width="200" />
 </p>
@@ -42,5 +42,3 @@ It helps the visiting companies to select students having relevant skills and gr
 - Open it using any Java IDE like IntelliJ. 
 - Build the application
 - Run the Application Class (src/main/java/com/abhinav/tutee/TuteeApplication.java)
-
-The {docs}/html/[reference documentation] includes detailed {docs}/html/getting-started.html#getting-started-installing-spring-boot[installation instructions] as well as a comprehensive {docs}/html/getting-started.html#getting-started-first-application[``getting started``] guide.
