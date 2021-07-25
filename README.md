@@ -1,6 +1,6 @@
 # managED
 
-<img src="https://drive.google.com/file/d/1ASTZLcO5jXPKnZnzNupGV8iX8IsVUgRR/view?usp=sharing" width="250" height="250"/>
+<img src="https://user-images.githubusercontent.com/57250845/126905766-bbfa0316-6c5a-4c9e-9817-b54fc8037d64.jpeg" width="250" height="250"/>
 
 ## About
 
@@ -19,10 +19,10 @@ It helps the visiting companies to select students having relevant skills and gr
 ## Screenshots:
 
 <p float="left">
-  <img src="https://drive.google.com/file/d/1DbuCxFhGTs6qkW2NuSMSjuA63zQsxbZm/view?usp=sharing" width="200" />
-  <img src="https://drive.google.com/file/d/1P8moQ6CiHRwHByEl9rniq7TugVGnmCtH/view?usp=sharing" width="200" /> 
-  <img src="https://drive.google.com/file/d/1ms-HYymJ6snFjavKiV1STx3ACEY_Scy8/view?usp=sharing" width="200" />
-  <img src="https://drive.google.com/file/d/1ZNAKl91QXsE4roPthxWe1Y_qXAPil6Y8/view?usp=sharing" width="200" />
+  <img src="https://user-images.githubusercontent.com/57250845/126905784-af249bf6-136f-4db5-81c5-ba52cb3fcb07.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/57250845/126905809-eace410c-66a6-4b51-b10e-3f1ce7be3e80.png" width="200" /> 
+  <img src="https://user-images.githubusercontent.com/57250845/126905720-faf4badf-e675-4e78-a354-e62fd3257852.jpeg" width="200" />
+  <img src="https://user-images.githubusercontent.com/57250845/126905750-9a16ac6d-8c55-4e2f-9b77-e43203154ca2.jpeg" width="200" />
 </p>
 
 
