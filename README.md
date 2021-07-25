@@ -6,7 +6,7 @@
 
 managED(Management for Education) is a system developed for college placements. 
 The application helps to automate the whole process of college placement. 
-It helps the visiting companies to select students having relevant skills and grades beforehand, thus allowing them to save significant amount of time.
+It helps the visiting companies select students having relevant skills and grades beforehand, thus allowing them to save significant amount of time.
 
 ## Features
 
@@ -16,11 +16,17 @@ It helps the visiting companies to select students having relevant skills and gr
 4. The students can then track their status by logging in to their accounts. The portal displays if the interview process is in progress, or if the student is selected or not.
 5. The Web Application is responsive and therefore can be accessed through both mobile phone and desktop/laptop.
 
+A copy of the application is deployed on heroku. Link : https://managed-ui.herokuapp.com/
+Admin Credentials : Username - admin
+                    Password - password
+
+NOTE - Since the application is hosted on a free dyno of heroku, please wait for the application to load (about 1 to 2 minutes) for the first time.
+
 ## Screenshots:
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/57250845/126905784-af249bf6-136f-4db5-81c5-ba52cb3fcb07.png" height="500" width="500" />
-  <img src="https://user-images.githubusercontent.com/57250845/126905809-eace410c-66a6-4b51-b10e-3f1ce7be3e80.png" height="500" width="500" /> 
+  <img src="https://user-images.githubusercontent.com/57250845/126905784-af249bf6-136f-4db5-81c5-ba52cb3fcb07.png" height="500" width="1000" />
+  <img src="https://user-images.githubusercontent.com/57250845/126905809-eace410c-66a6-4b51-b10e-3f1ce7be3e80.png" height="500" width="1000" /> 
   <img src="https://user-images.githubusercontent.com/57250845/126905720-faf4badf-e675-4e78-a354-e62fd3257852.jpeg" width="200" />
   <img src="https://user-images.githubusercontent.com/57250845/126905750-9a16ac6d-8c55-4e2f-9b77-e43203154ca2.jpeg" width="200" />
 </p>
