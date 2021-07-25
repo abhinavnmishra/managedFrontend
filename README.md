@@ -34,17 +34,17 @@ NOTE - Since the application is hosted on a free dyno of heroku, please wait for
 
 ## Video Link:
 
-## Stack and Architecture
+## Stack
 
 - The backend and the frontend are decoupled and are connected to each other via REST APIs.
-- The backend follows MVC Architecture.
-- The backend is purely built using Java Spring Boot.
-- Java Version : 8
-- Swagger is used for backend documentation : https://digigrad.herokuapp.com/swagger-ui.html
-
+- Link to the backend repository : https://github.com/abhinavnmishra/tutee
+- The frontend is built using PHP, HTML, CSS, JavaScript and AngularJS.
 
 ## Installation:
-- Clone this repository to your local machine. 
-- Open it using any Java IDE like IntelliJ. 
-- Build the application
-- Run the Application Class (src/main/java/com/abhinav/tutee/TuteeApplication.java)
+- Install XAMPP on your Local Machine
+- Clone this repository to your local machine in the htdocs folder in XAMPP directory. 
+- Open it using any code editor like PHP Storm. 
+- Open htmlParts/credentials.php file
+- add the url of the backend server
+- Run XAMPP
+- Open a browser and tupe localhost/managedFrontend/
