@@ -10,7 +10,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a9001e2-59da-4aa4-997b-bf78a9398ec4" name="Default Changelist" comment="" />
+    <list default="true" id="1a9001e2-59da-4aa4-997b-bf78a9398ec4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/logo.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlParts/credentials.php" beforeDir="false" afterPath="$PROJECT_DIR$/htmlParts/credentials.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlParts/topBar.php" beforeDir="false" afterPath="$PROJECT_DIR$/htmlParts/topBar.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,10 +47,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -59,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1627045581149</updated>
-      <workItem from="1627045582945" duration="58393000" />
+      <workItem from="1627045582945" duration="59683000" />
     </task>
     <servers />
   </component>
@@ -86,5 +92,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="541" y="391" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1627206831171" />
+    <state x="100" y="128" width="1240" height="672" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1627219062125">
+      <screen x="0" y="25" width="1440" height="799" />
+    </state>
+    <state x="100" y="128" width="1240" height="672" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1440.799@0.25.1440.799" timestamp="1627219062125" />
   </component>
 </project>

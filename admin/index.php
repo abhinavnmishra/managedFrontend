@@ -85,8 +85,8 @@
                                     <thead>
                                     <tr>
                                         <th>
-                                            <input type="checkbox" id="checkAll" name="checkAll{{x.id}}" class="filled-in chk-col-blue" ng-click="checkAll()"/>
-                                            <label for="checkAll"></label>
+                                            <input type="checkbox" id="checkAll{{x.id}}" name="checkAll{{x.id}}" class="filled-in chk-col-blue" ng-click="checkAll()"/>
+                                            <label for="checkAll{{x.id}}"></label>
                                         </th>
                                         <th>Name</th>
                                         <th>USN</th>
@@ -98,8 +98,8 @@
                                     <tfoot>
                                     <tr>
                                         <th>
-                                            <input type="checkbox" id="checkAll2" name="checkAll{{x.id}}" class="filled-in chk-col-blue" ng-click="checkAll()"/>
-                                            <label for="checkAll2"></label>
+                                            <input type="checkbox" id="checkAll2{{x.id}}" name="checkAll{{x.id}}" class="filled-in chk-col-blue" ng-click="checkAll()"/>
+                                            <label for="checkAll2{{x.id}}"></label>
                                         </th>
                                         <th>Name</th>
                                         <th>USN</th>
