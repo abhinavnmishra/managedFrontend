@@ -39,6 +39,7 @@ NOTE - Since the application is hosted on a free dyno of heroku, please wait for
 - The backend and the frontend are decoupled and are connected to each other via REST APIs.
 - Link to the backend repository : https://github.com/abhinavnmishra/tutee
 - The frontend is built using PHP, HTML, CSS, JavaScript and AngularJS.
+- UI Kit Used : AdminBSB
 
 ## Installation:
 - Install XAMPP on your Local Machine
