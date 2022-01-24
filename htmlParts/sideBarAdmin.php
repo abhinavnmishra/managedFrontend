@@ -41,6 +41,12 @@ $linkP = substr($link, strrpos($link,'/')+1);
                 <span>Create Opening</span>
             </a>
         </li>
+        <li class="<?php if($linkP=="report.php") {echo "active";} ?>">
+            <a href="report.php">
+                <i class="material-icons">assessment</i>
+                <span>Report</span>
+            </a>
+        </li>
     </ul>
 </div>
 <!-- #Menu -->
