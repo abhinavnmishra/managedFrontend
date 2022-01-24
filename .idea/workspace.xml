@@ -11,22 +11,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a9001e2-59da-4aa4-997b-bf78a9398ec4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/admin/chartjs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/report.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htmlParts/topBar.php" beforeDir="false" afterPath="$PROJECT_DIR$/htmlParts/topBar.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htmlParts/sideBarAdmin.php" beforeDir="false" afterPath="$PROJECT_DIR$/htmlParts/sideBarAdmin.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -47,14 +50,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/admin" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/admin" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -65,12 +71,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1627045581149</updated>
-      <workItem from="1627045582945" duration="60889000" />
+      <workItem from="1627045582945" duration="61658000" />
+      <workItem from="1627492463878" duration="422000" />
+      <workItem from="1631162975422" duration="475000" />
+      <workItem from="1641623934376" duration="454000" />
+      <workItem from="1641639453591" duration="249000" />
+      <workItem from="1642881523388" duration="10094000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -82,19 +93,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1627045914330">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1627045914330" />
-    <state x="541" y="391" key="NewPhpFileDialog" timestamp="1627206831171">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="541" y="391" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1627206831171" />
-    <state x="100" y="128" width="1240" height="672" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1627219062125">
-      <screen x="0" y="25" width="1440" height="799" />
-    </state>
-    <state x="100" y="128" width="1240" height="672" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1440.799@0.25.1440.799" timestamp="1627219062125" />
   </component>
 </project>
